@@ -1,1 +1,3 @@
-[]
+[
+  "### 🧟 Zombie — nové modely a animace\n- Zombíci mají detailnější modely: pohyblivou čelist se zuby, nadočnicový oblouk se zapadlýma očima, drápy na rukou a kost trčící z rány. Každý má trochu jiné krvavé detaily, takže horda nevypadá naklonovaně.\n- Přepracovaná chůze — kroucení páteře, kolébání hlavy, pohyb kotníků a dýchání.\n- Útok teď vypadá přirozeně: zombie střídavě sekají drápy a koušou vlastním rytmem, místo dřívějšího strojového mávání oběma rukama naráz.\n- Zombie sebou trhne, když ho zasáhneš.\n\n### 🗺️ Editor map — naklánění objektů\n- Zdi, překážky a plošiny jde teď naklánět i do stran a dopředu/dozadu (osy X a Z), nejen otáčet dokola. Otevírá to šikmé střechy, rampy a nakloněné konstrukce."
+]
