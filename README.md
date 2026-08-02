@@ -1,4 +1,4 @@
- # Shweeskey
+ # Shveeskay
 
   > Tohle je **distribuční repozitář** — najdeš tu jen hotové buildy ke stažení.
   > Zdrojový kód je vývojářský a veřejně dostupný není.
@@ -10,9 +10,9 @@
 
   | Systém | Soubor |
   |--------|--------|
-  | **Windows** | `Shweeskey Setup <verze>.exe` |
-  | **macOS (Apple Silicon)** | `Shweeskey-<verze>-arm64.dmg` |
-  | **macOS (Intel)** | `Shweeskey-<verze>.dmg` |
+  | **Windows** | `Shveeskay Setup <verze>.exe` |
+  | **macOS (Apple Silicon)** | `Shveeskay-<verze>-arm64.dmg` |
+  | **macOS (Intel)** | `Shveeskay-<verze>.dmg` |
 
   ## 💾 Instalace
 
