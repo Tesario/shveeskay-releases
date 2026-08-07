@@ -1,1 +1,3 @@
-[]
+[
+  "### 🏃 Arcade movement\n- A new arcade movement profile: snappy acceleration, real air-strafing, and bunny-hopping that chains instead of bleeding speed on every landing.\n- Sliding.\n- Movement physics now step at a fixed 120 Hz, so how you move no longer depends on your frame rate.\n- Field of view is a fixed 90° in every movement profile.\n- Stepping up onto a ledge eases the view instead of snapping it.\n\n### 🌐 Multiplayer\n- Other players move more smoothly, especially on an unstable connection — their motion is now replayed on the sender's clock rather than on whenever the packet happened to arrive.\n\n### 🔫 Visuals\n- Weapons picked up depth: seams, magazine wells, trigger guards and the gaps under scopes are now shaded instead of reading as flat blocks of colour.\n- The sky now lights the world — weapons, players and props take their ambient light and reflections from the actual sky above you, so they shift with the time of day."
+]
