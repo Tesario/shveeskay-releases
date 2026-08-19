@@ -1,3 +1,1 @@
-[
-  "### 🔫 Multiplayer\n- Weapons picked up off the ground now equip properly for everyone in the room — joined players previously got the gun stuffed into their backpack unloaded and without its spare ammo.\n\n### ⌨️ Controls\n- Removed the obsolete \"Map\" key binding — the minimap is always on screen, so the key did nothing.\n- Pressing H no longer silently switches your color profile mid-game (it was a leftover dev shortcut)."
-]
+[]
