@@ -1,3 +1,1 @@
-[
-  "### 🌐 Multiplayer stability\n- Fixed matches falling apart after a few minutes: players no longer vanish from each other's game (or get kicked with \"host left\") when an idle connection to the matchmaking server times out mid-match\n- Stale rooms whose host is long gone no longer show up in the room browser, so joining a listed room actually connects you\n- Other players now move smoothly instead of juddering and rubber-banding — especially at high frame rates and on connections with jitter"
-]
+[]
