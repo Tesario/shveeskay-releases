@@ -1,1 +1,3 @@
-[]
+[
+  "### 🌑 No more black disc under players and creatures\n- Removed the dark blurry circle that sat on the ground under every other player and every creature. It was drawn on top of the terrain and no graphics setting could turn it off.\n- Bodies are now lit and shadowed only by the real sun shadow."
+]
