@@ -1,3 +1,1 @@
-[
-  "### 🌐 Multiplayer connections\n- Players who could never connect to each other can now play anyway. When a direct connection between two players cannot be established, the game routes their traffic through the server instead of giving up — a slower connection instead of no connection.\n- Joining no longer hangs for over a minute before failing. A join that is not going to connect directly now switches over within about 12 seconds.\n- The HUD's ⚡ Relay badge now also appears when a connection is taking that detour, so a higher ping has a visible reason."
-]
+[]
