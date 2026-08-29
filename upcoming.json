@@ -1,3 +1,1 @@
-[
-  "### 🛡️ Rooms that stay yours\n- A room you host can no longer be pinned as full by somebody who has already left. The game browser shows who is really in a room, and a room you can see is a room you can get into.\n- Room names and map names sent by other players are kept to a sane length, so nobody can bloat the room list for everyone browsing it.\n\n### 🖥️ Newer engine under the desktop app\n- The Windows and macOS builds move to a newer engine, picking up several months of browser security fixes.\n- One consequence worth knowing: that engine no longer supports macOS 11 (Big Sur). macOS 12 or newer is needed from this build onwards. Windows is unaffected."
-]
+[]
