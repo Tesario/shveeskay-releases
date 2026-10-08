@@ -1,3 +1,4 @@
 [
+  "### 🔫 Weapons\n- Fixed a bug where you could end up holding a gun that would neither fire nor aim after holding a grenade at the start of a match or when buying a weapon.",
   "### 🎬 Story cutscenes\n- A new survival world now opens with a cinematic intro. You come to on your back in the forest while a stranger, the Drifter, guns down two of the dead closing in on you with an AK.\n- He drags you back to your senses by a fire and points you at the work ahead, then walks off into the fog. The campfire he leaves behind is real, so you can use it.\n- The scene is fully voiced, with subtitles, lip-synced dialogue and acted characters.\n- In co-op, everyone in the world watches the intro together. Nobody can be hurt while it plays, and creatures leave you alone.\n- Each story scene plays once per world and is saved with it."
 ]
